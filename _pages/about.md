@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.erau.edu/'>Embry-Riddle Aeronautical University</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.erau.edu/'>Embry-Riddle Aeronautical University</a>
 
 profile:
   align: right
   image: headshot_joao.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>School of Graduate Studies - College of Aviaion</p>
+    <p>School of Graduate Studies - College of Aviation</p>
     <p>1 Aerospace Blvd</p>
     <p>Daytona Beach, FL 32114</p>
 
