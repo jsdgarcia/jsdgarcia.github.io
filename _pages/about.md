@@ -27,6 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. João S. D. Garcia is an Assistant Professor of the School of Graduate Studies of College of Aviation, ERAU. Dr. Garcia is an accomplished aviation safety expert with extensive experience in regulatory and operational roles, having held technical and executive functions at the Brazilian National Civil Aviation Agency (ANAC) and in the aerospace industry. He has served for over 10 years as a member ICAO's Safety Management Panel (SMP), including two tenures as the Panel's Vice-Chair. His academic background includes a Ph.D. in Aviation from Embry-Riddle Aeronautical University, with additional degrees in electrical, aeronautical, and mechanical engineering. Dr. Garcia's research bridges aviation safety, public governance, and advanced analytics, with work published in several top transportation and aviation journals. He is also a Fellow of the Royal Aeronautical Society and an active member of multiple international safety and risk analysis organizations.
