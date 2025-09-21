@@ -135,7 +135,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/joaosdgarcia", "_blank");
+          window.open("https://www.linkedin.com/in/joao-s-d-garcia", "_blank");
         },
       },{
         id: 'social-orcid',
