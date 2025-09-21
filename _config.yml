@@ -194,6 +194,7 @@ exclude:
   - _news
   - _posts
   - _pages/repositories
+  - _pages/dropdown
 keep_files:
   - CNAME
   - .nojekyll
